@@ -1,0 +1,84 @@
+
+.start{
+    margin-left:300px;
+    margin-right: 300px;;
+    margin-top:500px ;
+    margin-bottom:500px;
+    background-color: rgb(225,225,225);
+    border-radius: 5%;
+    display: flex;
+    padding-right: 1%;
+    text-align: right;
+        float:left;
+         height: 99.5%;
+          width: 50%;  
+}
+body{
+    background-image: url(https://images2.alphacoders.com/906/thumbbig-906077.webp);
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+.con1{
+margin:0px;
+height:50%;
+<<<<<<< HEAD
+}
+.con2{
+    margin : 0px;
+    height:33%;
+}
+.pic1{
+    border-top-left-radius: 5%; 
+    border-bottom-left-radius: 5%;
+}
+.con3{
+    margin : 0px;
+    height:33%;
+}.con4{
+    margin : 0px;
+    height:50%;
+    text-align:left;
+    padding-left:35px;
+    text-shadow: 600px;
+}
+.con5{
+    margin : 0px;
+    height:33%;
+    text-align:left;
+    padding-top:60px;
+    padding-left:35px;
+}
+.pic2{
+    border-radius:41%;
+}
+=======
+}
+.con2{
+    margin : 0px;
+    height:33%;
+}
+.pic1{
+    border-top-left-radius: 5%; 
+    border-bottom-left-radius: 5%;
+}
+.con3{
+    margin : 0px;
+    height:33%;
+}.con4{
+    margin : 0px;
+    height:50%;
+    text-align:left;
+    padding-left:35px;
+    text-shadow: 600px;
+}
+.con5{
+    margin : 0px;
+    height:33%;
+    text-align:left;
+    padding-top:60px;
+    padding-left:35px;
+}
+.pic2{
+    border-radius:41%;
+}
+>>>>>>> 4e67fd0e35962881421156c81a6bb841b84e789d
